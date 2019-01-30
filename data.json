@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "music": "7 rings",
+        "artist": "Ariana Grande",
+        "type": "Single",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ariana_Grande_-_7_rings.png/220px-Ariana_Grande_-_7_rings.png"
+    },
+    {
+        "id": 2,
+        "music": "no tears left to cry",
+        "artist": "Ariana Grande",
+        "type": "Single",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Ariana_Grande_No_Tears_Left_to_Cry.png/220px-Ariana_Grande_No_Tears_Left_to_Cry.png"
+    },
+    {
+        "id": 3,
+        "music": "In The Zone",
+        "artist": "Britney Spears",
+        "type": "Album",
+        "cover": "https://lastfm-img2.akamaized.net/i/u/770x0/d21412f7ee67ec7148ab503bb8642395.jpg"
+    },
+    {
+        "id": 4,
+        "music": "Sweetener",
+        "artist": "Ariana Grande",
+        "type": "Album",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Sweetener_album_cover.png/220px-Sweetener_album_cover.png"
+    }
+]
