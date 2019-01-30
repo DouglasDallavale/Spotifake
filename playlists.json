@@ -1,0 +1,74 @@
+[
+    {
+        "id":"Your top Genres",
+        "items": 
+        [
+            {
+                "id": "1",
+                "title": "Pop",
+                "color": "#A9E5BB"
+            }, 
+            {
+                "id": "2",
+                "title": "R&B",
+                "color": "#F7B32B"
+            },
+            {
+                "id": "3",
+                "title": "Latin",
+                "color": "#F72C25"
+            }, 
+            {
+                "id": "4",
+                "title": "Hip-Hop",
+                "color": "#2D1E2F"
+            }
+        ]
+    },
+    {
+        "id":"Browse all",
+        "items":
+        [
+            {
+                "id": "1",
+                "title": "Pop",
+                "color": "#A9E5BB"
+            }, 
+            {
+                "id": "2",
+                "title": "R&B",
+                "color": "#F7B32B"
+            },
+            {
+                "id": "3",
+                "title": "Latin",
+                "color": "#F72C25"
+            }, 
+            {
+                "id": "4",
+                "title": "Hip-Hop",
+                "color": "#2D1E2F"
+            },
+            {
+                "id": "1",
+                "title": "Pop",
+                "color": "#A9E5BB"
+            }, 
+            {
+                "id": "2",
+                "title": "R&B",
+                "color": "#F7B32B"
+            },
+            {
+                "id": "3",
+                "title": "Latin",
+                "color": "#F72C25"
+            }, 
+            {
+                "id": "4",
+                "title": "Hip-Hop",
+                "color": "#2D1E2F"
+            }
+        ]
+    }
+]
